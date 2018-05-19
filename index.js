@@ -13,7 +13,9 @@ function subtract(a,b){
 }
 //multiply(a, b) multiplies two numbers and returns the result:
 function multiply(a,b){
-
+  var c
+  c = a * b
+  return c
 
 }
 //divide(a, b) divides a by b and returns the result:
