@@ -6,7 +6,9 @@ return c
 }
 //subtract(a, b) subtracts b from a and returns the result:
 function subtract(a,b){
-
+  var c
+  c = a - b
+  return c
 
 }
 //multiply(a, b) multiplies two numbers and returns the result:
